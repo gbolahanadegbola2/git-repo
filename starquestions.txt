@@ -1,0 +1,25 @@
+1. Tell me about yourself and your technical background.
+
+S: I have a background in Electrical and Computer Engineering from Texas Southern University, with a strong focus on software engineering and data pipelines.
+T: I wanted to apply my technical foundation to build scalable, real-world data and software solutions.
+A: During my internship with the Harris County Flood Control District, I built automated data pipelines using Python, dbt, and SQL to clean and process raw hydrology data.
+R: My work cut query times by nearly 40% for our analysis team, and I’m now looking to bring that same data engineering and software focus to a full-time role.
+
+2. Tell me about a time you had a conflict with a team member. How did you resolve it?
+
+3. Can you share an example of a mistake you made and how you handled it?
+
+4. Describe a situation where you had to adapt quickly to a sudden change.
+
+5. How do you manage your time when dealing with multiple competing deadlines?
+
+6. Have you ever had to lead a project or initiative without formal authority?
+
+7. Tell me about a time you identified a problem and took the initiative to fix it.
+
+8. How do you explain a complex technical concept to a non-technical person?
+
+9. Describe a time you had to make a decision or move forward with incomplete information.
+
+10. Tell me about a time you received critical feedback. How did you respond?
+
