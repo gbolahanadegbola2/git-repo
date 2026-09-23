@@ -1,4 +1,4 @@
-# Cognizant / Revature Training - Week 1 Challenges
+# Cognizant / Revature Training - Challenges
 
 ## SDLC & Agile
 
